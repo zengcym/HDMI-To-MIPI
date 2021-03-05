@@ -1,4 +1,4 @@
-# HDMI转MIPI屏幕驱动
+# HDMI驱动MIPI屏幕
 
 >基于稚晖君的HDMI-PI项目的东芝TC355870方案，他本人做出了龙迅的方案，但基于龙讯的调性，代码是没有开源的。而东芝方案有一版硬件，软件没有进行相关调试。开源连接：https://github.com/peng-zhihui/HDMI-PI
 
