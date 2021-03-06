@@ -5,6 +5,7 @@
 # 软硬件
 PCB文件使用Pads 9.5 Layout。
 >
+![image](https://github.com/zengcym/HDMI-To-MIPI/blob/main/Images/HDMI%20to%20MIPI_v1.JPG)
 项目的硬件部分参考了稚晖君的原理图，PCB部分同样采用核心板加转接板的方式，这样可以灵活匹配不同接口的显示屏，同时严格按原版接口和控制脚位定义，方便不同版本软硬调试应用。
 >
 增加了音频部分，板上放置了一个3W单声道CLASS-D功放，现在有声音了。
