@@ -3,7 +3,7 @@
 基于稚晖君的HDMI-PI项目的东芝TC358870XBG方案，他本人做出了龙迅的方案，但基于龙讯的调性，代码是没有开源的。而东芝方案有一版硬件，软件没有进行相关调试。开源链接：https://github.com/peng-zhihui/HDMI-PI
 
 # 软硬件
-![Image](<https://github.com/zengcym/HDMI-To-MIPI/blob/main/Images/HDMI%20to%20MIPI_v1.JPG>)
+![image](https://github.com/zengcym/HDMI-To-MIPI/blob/main/Images/HDMI%20to%20MIPI_v1.JPG)
 PCB文件使用Pads 9.5 Layout。
 >
 项目的硬件部分参考了稚晖君的原理图，PCB部分同样采用核心板加转接板的方式，这样可以灵活匹配不同接口的显示屏，同时严格按原版接口和控制脚位定义，方便不同版本软硬调试应用。
